@@ -153,7 +153,7 @@ O front-end **não é protagonista**, mas valida o fluxo ponta a ponta da aplica
 
 | Repositório                                                                              | Descrição                                                    |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [`data-platform`](https://github.com/aluguel-inteligencia-mercado/data-platform)         | Notebooks, ETL, scripts SQL, seed e documentação do pipeline |
+| [`data-platform`](https://github.com/RentSight/data_plataform)        | Notebooks, ETL, scripts SQL, seed e documentação do pipeline |
 | [`backend-platform`](https://github.com/aluguel-inteligencia-mercado/backend-platform)   | Backend ASP.NET Core, endpoints, cache, Swagger              |
 | [`frontend-platform`](https://github.com/aluguel-inteligencia-mercado/frontend-platform) | Front-end demonstrativo (stack em definição)                 |
 
