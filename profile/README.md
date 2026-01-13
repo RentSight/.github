@@ -4,6 +4,8 @@
 # 🏘️ RentSight – Real Estate Data Intelligence Platform
 
 **Plataforma de Inteligência de Mercado de Aluguéis Imobiliários**
+<br>
+**Dataset: [Airbnb - Rio De Janeiro](https://data.insideairbnb.com/brazil/rj/rio-de-janeiro/2025-09-26/visualisations/listings.csv)**
 
 > Este projeto nasceu da ideia de **construir algo real**, que entregue valor e demonstre conhecimentos práticos em **Databricks, ASP.NET Core, APIs, bancos de dados, arquitetura de dados e arquitetura de software**.
 
